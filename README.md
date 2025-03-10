@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm <a href="https://alexandrebhz.com/"> Alexandre Tavaes</a> currently Tech Lead @ <a href="https://www.rentalmatics.com/">Rentalmatics</a>.
+I'm <a href="https://github.com/alexandrebhz/alexandrebhz/"> Alexandre Tavaes</a> currently Tech Lead @ <a href="https://www.rentalmatics.com/">Rentalmatics</a>.
 
 * 💡 **Interests:** Saas, Startups, Ruby on Rails, Innovation, AI, IoT
 * ⚡  **Languages :**  Ruby, Php, GO, Python
