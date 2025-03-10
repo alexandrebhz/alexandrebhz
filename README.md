@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**alexandrebhz/alexandrebhz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm <a href="https://alexandrebhz.com/"> Alexandre Tavaes</a> currently Tech Lead @ <a href="https://www.rentalmatics.com/">Rentalmatics</a>.
 
-Here are some ideas to get you started:
+* 💡 **Interests:** Saas, Startups, Ruby on Rails, Innovation, AI, IoT
+* ⚡  **Languages :**  Ruby, Php, GO, Python
+* 📚  **Learning:** Rust, ScyllaDB
+* 🎧  **Hobbies :** PC Gaming, Reading, Music
+* 💬  **Connect :** <a href="https://twitter.com/alexandrebr">Twitter</a>, <a href="https://www.linkedin.com/in/alexandretavares/">LinkedIn</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexandrebhz/alexandrebhz) -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrebhz&show_icons=true&rank_icon=github&hide=issues,contribs&show=reviews)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrebhz&langs_count=6&layout=compact)
