@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm <a href="https://github.com/alexandrebhz/"> Alexandre Tavares</a> currently Tech Lead @ <a href="https://www.rentalmatics.com/">Rentalmatics</a>.
+I'm <a href="https://github.com/alexandrebhz/"> Alexandre Tavares</a> aka “Alex” currently Tech Lead @ <a href="https://www.rentalmatics.com/">Rentalmatics</a>.
 
 * 💡 **Interests:** Saas, Startups, Ruby on Rails, Innovation, AI, IoT
 * ⚡  **Languages :**  Ruby, Php, GO, Python
